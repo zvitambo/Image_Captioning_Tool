@@ -173,5 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-
+# pipenv environment file
 .DS_Store
+
+README.local.md
