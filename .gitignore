@@ -176,4 +176,4 @@ cython_debug/
 # pipenv environment file
 .DS_Store
 
-README.local.md
+#README.local.md
